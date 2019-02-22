@@ -1,0 +1,9 @@
+C:\Users\Stephen Schroeder\source\repos\AllianceDevTest\AllianceDevTest\bin\Debug\netstandard2.0\AllianceDevTest.deps.json
+C:\Users\Stephen Schroeder\source\repos\AllianceDevTest\AllianceDevTest\bin\Debug\netstandard2.0\AllianceDevTest.dll
+C:\Users\Stephen Schroeder\source\repos\AllianceDevTest\AllianceDevTest\obj\Debug\netstandard2.0\AllianceDevTest.csprojAssemblyReference.cache
+C:\Users\Stephen Schroeder\source\repos\AllianceDevTest\AllianceDevTest\obj\Debug\netstandard2.0\AllianceDevTest.csproj.CoreCompileInputs.cache
+C:\Users\Stephen Schroeder\source\repos\AllianceDevTest\AllianceDevTest\obj\Debug\netstandard2.0\AllianceDevTest.AssemblyInfoInputs.cache
+C:\Users\Stephen Schroeder\source\repos\AllianceDevTest\AllianceDevTest\obj\Debug\netstandard2.0\AllianceDevTest.AssemblyInfo.cs
+C:\Users\Stephen Schroeder\source\repos\AllianceDevTest\AllianceDevTest\bin\Debug\netstandard2.0\AllianceDevTest.pdb
+C:\Users\Stephen Schroeder\source\repos\AllianceDevTest\AllianceDevTest\obj\Debug\netstandard2.0\AllianceDevTest.dll
+C:\Users\Stephen Schroeder\source\repos\AllianceDevTest\AllianceDevTest\obj\Debug\netstandard2.0\AllianceDevTest.pdb
